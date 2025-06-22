@@ -1,11 +1,5 @@
 package day20_nested_loop;
-//*
-String -- > "apple"
 
-Output: p
-
-    - Find duplicate characters (the character that is in the word more than 1 time)
- */
 public class DuplicateCharacters {
     public static void main(String[] args) {
         String word = "appllle";
@@ -43,4 +37,4 @@ public class DuplicateCharacters {
 
 
     }
-}
+}}
