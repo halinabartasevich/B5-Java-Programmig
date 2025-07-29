@@ -1,6 +1,6 @@
 package day36_inheritance.access_mod.b;
 
-import day36_inheritance.acces_mod.a.First;
+import day36_inheritance.access_mod.a.First;
 
 // Fourth Class is in the DIFFERENT PACKAGE as First Class
 public class Fourth extends First {
