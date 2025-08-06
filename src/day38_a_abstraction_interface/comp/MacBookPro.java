@@ -1,6 +1,6 @@
 package day38_a_abstraction_interface.comp;
 // CONCRETE
-public class MacbookPro implements Mac {
+public class MacBookPro implements Mac {
     @Override
     public void turnOn() {
         System.out.println("Turning on the Macbook Pro");
@@ -17,14 +17,14 @@ class Runner {
 
         System.out.println();
         // Reaching static members with Class
-        System.out.println(MacbookPro.NAME);
-        System.out.println(MacbookPro.OS);
+        System.out.println(MacBookPro.NAME);
+        System.out.println(MacBookPro.OS);
         //MacbookPro.company(); // Interface Static method can ONLY be called with Interface
 
 
         System.out.println();
         // Mac m = new Mac();  // Cannot create object of Interface
-        MacbookPro mP = new MacbookPro();
+        MacBookPro mP = new MacBookPro();
         mP.turnOn();
         mP.faceTime();
 
