@@ -2,7 +2,7 @@ package day39_a_polymorphism.book;
 
 import day38_a_abstraction_interface.animal.Flyable;
 import day38_b_polymorphism.Animal;
-import day39_a_polymorphism.cloth.Clothes;
+import day39_a_polymorphism.clothes.Clothes;
 
 public class Library {
     public static void main(String[] args) {
@@ -67,7 +67,7 @@ public class Library {
         // access to instance methods
         //b4.read(); // Reference side has no access
         //b4.open(); // Reference side has no access
-        b4.download();
+       b4.download();
 
 
         System.out.println("******************************");
