@@ -68,12 +68,7 @@ public class AllMapObjects {
                     - KEys: null is OK
                     - VALUEs: null is OK
 
-                TreeMap
-                    - order is SORTED based on KEY
-                    - KEYs: no duplicate
-                    - VALUEs: duplicates are OK
-                    - KEYs: null is NOT OK
-                    - VALUEs: null is OK
+                 OK
 
                 HashTable
                     - random order based on KEY
