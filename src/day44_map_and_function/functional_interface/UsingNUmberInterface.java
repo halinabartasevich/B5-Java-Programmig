@@ -1,7 +1,10 @@
+package day44_map_and_function.functional_interface;
 
-public static void main(String[] args) {
+import day44_map_and_function.functional_interface.NumberInterface;
 
-    public class UsingNumberInterface {
+
+
+    class UsingNumberInterface {
         public static void main(String[] args) {
             A a = new A();
             a.apply(10);
@@ -46,4 +49,4 @@ public static void main(String[] args) {
          */
 
         }
-    }}
+    }
