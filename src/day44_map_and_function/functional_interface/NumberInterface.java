@@ -1,4 +1,5 @@
 package day44_map_and_function.functional_interface;
+
 /*
     Functional Interface also known as SAM (Single Abstract Method)
     can only have one abstract method.
