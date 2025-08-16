@@ -1,4 +1,4 @@
-package day44_map_and_function.string_builder_sbuffer;
+package day41_collection.day44_map_and_function.string_builder_sbuffer;
 
 import my_util.StringUtil;
 
