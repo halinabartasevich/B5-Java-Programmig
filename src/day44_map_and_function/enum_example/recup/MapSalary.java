@@ -1,4 +1,4 @@
-package day44_map_and_function.recup;
+package day44_map_and_function.enum_example.recup;
 
 import java.util.*;
 

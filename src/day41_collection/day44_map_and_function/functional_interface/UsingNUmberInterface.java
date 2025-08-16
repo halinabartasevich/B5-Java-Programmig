@@ -1,10 +1,7 @@
-package day44_map_and_function.functional_interface;
-
-import day44_map_and_function.functional_interface.NumberInterface;
+package day41_collection.day44_map_and_function.functional_interface;
 
 
-
-    class UsingNumberInterface {
+class UsingNumberInterface {
         public static void main(String[] args) {
             A a = new A();
             a.apply(10);

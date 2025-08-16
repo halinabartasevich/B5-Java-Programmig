@@ -1,13 +1,14 @@
 package day44_map_and_function.enum_example;
 
-public enum Browsers {
-    // CONSTANTS
-    FIREFOX, CHROME, SAFARI, OPERA, EDGE, IE;
-}
+
+    public enum Browsers {
+        // CONSTANTS
+        FIREFOX, CHROME, SAFARI, OPERA, EDGE, IE;
+    }
 
 
 
-// Just regular class with Constant
-class Test {
-    public static final String BROWSER = "Chrome";
-}
+    // Just regular class with Constant
+    class Test {
+        public static final String BROWSER = "Chrome";
+    }

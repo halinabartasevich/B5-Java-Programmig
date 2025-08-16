@@ -1,4 +1,4 @@
-package day44_map_and_function.functional_interface;
+package day44_map_and_function.enum_example.functional_interface;
 
 /*
     Functional Interface also known as SAM (Single Abstract Method)

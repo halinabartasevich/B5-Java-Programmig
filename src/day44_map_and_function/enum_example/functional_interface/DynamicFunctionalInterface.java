@@ -1,4 +1,4 @@
-package day44_map_and_function.functional_interface;
+package day44_map_and_function.enum_example.functional_interface;
 /*
     <E>, <T> ---- > Generic Type: can accept any type of data
 

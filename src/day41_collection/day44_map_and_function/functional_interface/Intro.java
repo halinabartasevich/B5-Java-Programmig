@@ -1,4 +1,4 @@
-package day44_map_and_function.functional_interface;
+package day41_collection.day44_map_and_function.functional_interface;
 
 
 import java.util.ArrayList;
