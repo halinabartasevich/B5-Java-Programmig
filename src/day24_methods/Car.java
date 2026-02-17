@@ -57,6 +57,7 @@ public class Car {
         openDoor();
         getInCar();
         drive();
+
     }  public static void main(String[] args) {
         //Car.unlock(); // you can call the static method with the class name. Since it is in the same class/file, we can call it directly.
         unlock();

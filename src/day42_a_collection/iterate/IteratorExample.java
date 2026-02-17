@@ -1,4 +1,4 @@
-package day42_a_collection.collection.iterate;
+package day42_a_collection.iterate;
 
 import java.util.ArrayList;
 import java.util.Iterator;
