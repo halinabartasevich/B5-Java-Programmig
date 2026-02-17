@@ -28,14 +28,10 @@ public class CreditScore {
         String scoreLeverForTom = scoreLevel( creditScoreForTom );
         System.out.println(scoreLeverForTom);
 
-
         // scoreLevel( getCreditScore2("Tom") );
 
         String scoreLevelForAnyOneWith600 = scoreLevel(600);
         System.out.println(scoreLevelForAnyOneWith600);
-
-
-
 
     }
 

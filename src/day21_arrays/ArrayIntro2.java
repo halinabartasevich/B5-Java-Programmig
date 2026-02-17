@@ -17,7 +17,7 @@ public class ArrayIntro2 {
         int [] arr3 = {(int)32.3, (int)78.9, 7}; // int cannot hold double - but with EXPLICIT CONVERSION (CASTING) we can - data loss is possible
 
         System.out.println( arr1.length); // 4
-        System.out.println( arr2.length); // 2
+        System.out.println( arr2.length); // 4
 
         System.out.println();
         System.out.println(Arrays.toString(arr1)); // Since I have made an Array of 4 elements with no initial value, it will show the default value of that dataType

@@ -1,4 +1,4 @@
-package day41_collection;
+package day41_collection.exeption_account;
 
 public class InvalidCredentialsException extends Exception{
     public InvalidCredentialsException(String message) {

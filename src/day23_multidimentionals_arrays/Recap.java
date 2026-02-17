@@ -32,7 +32,7 @@ public class Recap {
         System.out.println(Arrays.equals(arr1, arr2));
 
 
-        System.out.println();
+        System.out.println("***************************");
         // how to join elements in array / how to convert array into String
         String[] strArr = {"java", "selenium", "jira", "sprint", "release"};
         System.out.println(Arrays.toString(strArr));

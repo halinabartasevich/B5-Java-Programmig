@@ -1,4 +1,4 @@
-package day41_collection;
+package day41_collection.exeption_account;
 // Custom Class
 public class Account {
     double balance;

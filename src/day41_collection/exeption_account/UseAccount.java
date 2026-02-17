@@ -1,4 +1,4 @@
-package day41_collection;
+package day41_collection.exeption_account;
 // Runner Class
 public class UseAccount {
     public static void main(String[] args) {
